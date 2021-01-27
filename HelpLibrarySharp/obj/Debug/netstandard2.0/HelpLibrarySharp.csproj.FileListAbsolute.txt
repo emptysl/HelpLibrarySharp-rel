@@ -1,0 +1,9 @@
+C:\Users\appst\source\repos\HelpLibrarySharp\HelpLibrarySharp\bin\Debug\netstandard2.0\HelpLibrarySharp.deps.json
+C:\Users\appst\source\repos\HelpLibrarySharp\HelpLibrarySharp\bin\Debug\netstandard2.0\HelpLibrarySharp.dll
+C:\Users\appst\source\repos\HelpLibrarySharp\HelpLibrarySharp\bin\Debug\netstandard2.0\HelpLibrarySharp.pdb
+C:\Users\appst\source\repos\HelpLibrarySharp\HelpLibrarySharp\obj\Debug\netstandard2.0\HelpLibrarySharp.csprojAssemblyReference.cache
+C:\Users\appst\source\repos\HelpLibrarySharp\HelpLibrarySharp\obj\Debug\netstandard2.0\HelpLibrarySharp.csproj.CoreCompileInputs.cache
+C:\Users\appst\source\repos\HelpLibrarySharp\HelpLibrarySharp\obj\Debug\netstandard2.0\HelpLibrarySharp.AssemblyInfoInputs.cache
+C:\Users\appst\source\repos\HelpLibrarySharp\HelpLibrarySharp\obj\Debug\netstandard2.0\HelpLibrarySharp.AssemblyInfo.cs
+C:\Users\appst\source\repos\HelpLibrarySharp\HelpLibrarySharp\obj\Debug\netstandard2.0\HelpLibrarySharp.dll
+C:\Users\appst\source\repos\HelpLibrarySharp\HelpLibrarySharp\obj\Debug\netstandard2.0\HelpLibrarySharp.pdb
